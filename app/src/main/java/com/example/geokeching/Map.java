@@ -34,7 +34,7 @@ public class Map extends AppCompatActivity {
 
         //добавление слоя дорог и улиц
         GeoObjectCollection geoObjects = new GeoObjectCollection();
-
+        
 
     }
 
